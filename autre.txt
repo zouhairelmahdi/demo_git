@@ -1,4 +1,4 @@
 ceci est un fichier text
 maintenant on modifie depuis github
-aussi de ma machine locale
+aussi de ma machine locale et c'est cool
 
